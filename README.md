@@ -1,0 +1,1 @@
+In this book you will learn the C programming language and at the same time learn how to build your own programming language, a minimal lisp, in under 1000 lines of code!
